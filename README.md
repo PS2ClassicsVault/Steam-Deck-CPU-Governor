@@ -1,4 +1,4 @@
-# Steam-Deck-Scheduler
+# Steam Deck CPU Scheduler
 Set your steam deck to a preset scheduler w/out performance loss, you will need to have a password setup via terminal before using this script!
 
 ## Usage/Installation:
