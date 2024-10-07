@@ -1,4 +1,4 @@
-# Steam Deck CPU Governor
+# Steam Deck CPU Governor Setup Installer Scripts
 Set your steam deck to a preset governor w/out performance loss, you will need to have a password setup via terminal before using this script!
 
 ## Usage/Installation:
