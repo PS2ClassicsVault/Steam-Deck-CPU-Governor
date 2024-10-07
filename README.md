@@ -7,6 +7,6 @@ Set your steam deck to a preset scheduler, you will need to have a password setu
 
 2). Download your preset from the cpu folder within this repository
 
-3). Open a terminal window in the folder the install file is in, then run <sub>sudo bash install.sh</sub>
+3). Open a terminal window in the folder the install file is in, then run **sudo bash install.sh**
 
 4). Reboot system and enjoy!
