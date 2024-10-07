@@ -13,3 +13,6 @@ Set your steam deck to a preset scheduler w/out performance loss, you will need 
 
 ## Uninstall/Revert back to stock:
 To revert back to stock download the uninstall.sh file then as before run: *sudo bash uninstall.sh* then reboot.
+
+## Developer Note
+This script is safe to use, however with any modifications to your system/steamos, there are always the risk of damaging your hardware/software, so we are kindly informing you that you are responsible for any damage to your steam deck via software or hardware or both. USE AT YOUR OWN RISK!
