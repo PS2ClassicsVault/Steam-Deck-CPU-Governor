@@ -19,4 +19,4 @@ To revert back to stock download the uninstall.sh file then as before run: *sudo
 
 - This script has been tested on my personal steam deck and supports both the OLED & LCD models.
 
-- If your not keen of a permanent solution and want a temporary solution, we recommend using PowerTools, you will need decky loader tp btain the plugin!
+- If your not keen of a permanent solution and want a temporary solution, we recommend using PowerTools, you will need decky loader to obtain the plugin!
