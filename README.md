@@ -17,4 +17,4 @@ To revert back to stock download the uninstall.sh file then as before run: *sudo
 ## Developer Note
 This script is safe to use, however with any modifications to your system/steamos, there are always the risk of damaging your hardware/software, so we are kindly informing you that you are responsible for any damage to your steam deck via software or hardware or both. USE AT YOUR OWN RISK!
 
-This script has been tested on my personal steam deck and supports both ther OLED & LCD models.
+This script has been tested on my personal steam deck and supports both the OLED & LCD models.
